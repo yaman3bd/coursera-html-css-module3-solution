@@ -1,0 +1,64 @@
+
+body {
+  font-size: 16px;
+  color: #fff;
+
+}
+
+* {
+  font-family: Comic Sans MS;
+}
+
+#header-nav {
+  border-radius: 0;
+  border: 0;
+  border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  background-color: #999999;
+}
+
+.bg-gray {
+  background-color: #999999 !important;
+
+}
+
+.bg-black {
+  background-color: black !important;
+
+}
+
+.bg-white {
+  background-color: white !important;
+}
+
+.text-black {
+  color: black !important;
+}
+
+.border-bottom {
+  border-bottom: 3px solid black;
+}
+
+.border-top {
+  border-top: 3px solid black !important;
+}
+
+.navbar-nav {
+  margin: 0 -15px;
+}
+
+.navbar-collapse {
+  overflow: hidden;
+}
+
+.padding-10xp {
+  padding: 10px;
+}
+
+.font-30px {
+  font-size: 30px;
+}
+
+.font-20px {
+  font-size: 20px;
+}
